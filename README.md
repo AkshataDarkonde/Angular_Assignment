@@ -1,4 +1,7 @@
+# MAIN PAGE
 ![Image](https://user-images.githubusercontent.com/91557235/169303365-1da147b8-34d8-45b3-a1fc-d2a376ffc5e5.png)
+
+# LoginView
 ![LoginView](https://user-images.githubusercontent.com/91557235/169349801-d104f4c6-dcc3-41b5-a96c-a998917f924a.png)
 
 # MyApp
