@@ -1,3 +1,5 @@
+![Image](https://user-images.githubusercontent.com/91557235/169303365-1da147b8-34d8-45b3-a1fc-d2a376ffc5e5.png)
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
@@ -25,3 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
